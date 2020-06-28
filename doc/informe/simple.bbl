@@ -1,0 +1,32 @@
+\begin{thebibliography}{1}
+\bibitem{Axe:01}
+R. Axelrod
+\newblock ``The Evolution of Strategies in the Iterated Prisoner's Dilemma''
+\newblock Lawrence Davis (ed.),Genetic Algorithms and Simulated Annealing,
+\newblock (London: Pitman, and Los Altos, CA: Morgan Kaufman, 1987), pp. 32-41., 1987.
+
+\bibitem{Axe:02}
+R. Axelrod
+\newblock ``Evolving New Strategies: The Evolution of Strategies in the Iterated Prisoner's Dilemma''
+\newblock article, 2001.
+
+\bibitem{Fow:01}
+M. Fowler.
+\newblock ``Domain Specific Language''
+\newblock article, Boston, U.S.A., 2008.
+
+\bibitem{Fow:02}
+M. Fowler.
+\newblock ``Human Interface''
+\newblock article, Boston, U.S.A., 2005.
+
+\bibitem{Fow:03}
+M. Fowler.
+\newblock ``DSLs: An introductory Example''
+\newblock article, Boston, U.S.A., 2008-2009.
+
+\bibitem{Wiki:01}
+Wikipedia.
+\newblock ``Teoría de Juegos''
+\newblock article, The Wikimedia Foundation, 2009.
+\end{thebibliography}
